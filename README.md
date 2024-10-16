@@ -1,7 +1,6 @@
 # Towers_of_Hanoi
 
-Link: https://gowthammca23.github.io/Towers_of_Hanoi/
-
+Link:https://github.com/Ezhil106itachi/Towers-of-Hanoi.git
 TOWERS OF HANOI
 
 ## Description:
